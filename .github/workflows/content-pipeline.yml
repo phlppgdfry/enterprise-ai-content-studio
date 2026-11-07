@@ -1,0 +1,49 @@
+name: Enterprise AI Content Pipeline
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      format:
+        description: 'Video format (linkedin-60s, short-30s, demo-3m)'
+        required: true
+        default: 'linkedin-60s'
+      dry_run:
+        description: 'Run in safe simulation mode (no API credits consumed)'
+        type: boolean
+        default: true
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 10
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Pipeline (Safe Mode)
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'true' }}
+          DESCRIPT_API_KEY: ${{ secrets.DESCRIPT_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+        run: |
+          python src/cli.py run ${{ github.event.inputs.format || 'linkedin-60s' }} --dry-run
+
+      - name: Upload Generated Manifest Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-production-manifests
+          path: output/

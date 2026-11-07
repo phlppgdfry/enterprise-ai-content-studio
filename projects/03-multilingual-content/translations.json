@@ -1,0 +1,23 @@
+{
+  "project": "Multilingual AI Software Demo",
+  "languages": {
+    "nl": {
+      "language": "Nederlands (Origineel)",
+      "hook": "Stop met urenlang handmatig video's editen voor je software releases.",
+      "body": "Met onze geautomatiseerde pipeline transformeren we GitHub code commits direct in professionele productvideo's, compleet met studiokwaliteit audio en dynamische ondertiteling.",
+      "cta": "Bekijk de volledige open-source architectuur op GitHub!"
+    },
+    "en": {
+      "language": "English (US)",
+      "hook": "Stop spending hours manually editing demo videos for your software releases.",
+      "body": "With our automated pipeline, we transform GitHub commits directly into polished product videos, complete with studio-quality audio and dynamic captions.",
+      "cta": "Check out the full open-source architecture on GitHub!"
+    },
+    "fr": {
+      "language": "Français",
+      "hook": "Arrêtez de passer des heures à monter manuellement des vidéos de démonstration pour vos logiciels.",
+      "body": "Grâce à notre pipeline automatisé, nous transformons les commits GitHub directement en vidéos professionnelles avec un son studio et des sous-titres dynamiques.",
+      "cta": "Découvrez l'architecture complète sur GitHub !"
+    }
+  }
+}

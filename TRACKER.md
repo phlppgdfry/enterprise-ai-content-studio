@@ -49,12 +49,25 @@ Publieke Share Link: **[https://share.descript.com/view/ouPR3bkHdYF](https://sha
 
 ---
 
-## 🚀 De 5 Portfolio Mijlpalen
+## 🚀 De 5 Portfolio Mijlpalen (Alle 5 Live & Gepubliceerd op Descript)
 
 - [x] **Project 1:** [Professional AI Video Editing (60-90 sec)](projects/01-professional-editing/)
   - *Live Descript Project:* [https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d](https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d)
   - *Publieke Share URL:* [https://share.descript.com/view/ouPR3bkHdYF](https://share.descript.com/view/ouPR3bkHdYF)
+  - *Features:* Text-based cut, filler word removal, Studio Sound 85%, scene splits, dynamic captions, 3% subtle zoom, portrait 9:16 layout.
 - [x] **Project 2:** [AI Product Demo met Underlord (2-3 min)](projects/02-ai-product-demo/)
-- [x] **Project 3:** [Meertalige AI Content (NL, EN, FR)](projects/03-multilingual-content/)
-- [x] **Project 4:** [Content Repurposing (5 formats uit 1 master)](projects/04-content-repurposing/)
-- [x] **Project 5:** [Autonomous Enterprise Content Studio](projects/05-automated-pipeline/)
+  - *Live Descript Project:* [https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517](https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517)
+  - *Publieke Share URL:* [https://share.descript.com/view/n558bow7wq4](https://share.descript.com/view/n558bow7wq4)
+  - *Features:* Multi-scene visual refinements, technical product demo narration, studio audio cleanup.
+- [x] **Project 3:** [Vertical Viral Short - Content Repurposing (30 sec)](projects/04-content-repurposing/)
+  - *Live Descript Project:* [https://web.descript.com/d4f60ae9-aee8-4f2d-a561-3d8ee6c00da0](https://web.descript.com/d4f60ae9-aee8-4f2d-a561-3d8ee6c00da0)
+  - *Publieke Share URL:* [https://share.descript.com/view/w0jmYmu2rhR](https://share.descript.com/view/w0jmYmu2rhR)
+  - *Features:* 9:16 vertical short format, dynamic captions, pacing optimization, social-ready.
+- [x] **Project 4:** [Meertalige AI Content (NL, EN, FR)](projects/03-multilingual-content/)
+  - *Live Descript Project:* [https://web.descript.com/70db0422-c8b0-4b2c-9204-fd51a01b52b6](https://web.descript.com/70db0422-c8b0-4b2c-9204-fd51a01b52b6)
+  - *Publieke Share URL:* [https://share.descript.com/view/YoU6f892hEf](https://share.descript.com/view/YoU6f892hEf)
+  - *Features:* Multilingual audio & automated transcription (French/International), cross-lingual AI dubbing.
+- [x] **Project 5:** [Autonomous Enterprise Content Studio - CI/CD Pipeline](projects/05-automated-pipeline/)
+  - *Live Descript Project:* [https://web.descript.com/d664473b-63eb-44ca-94fe-77da1efb6fa6](https://web.descript.com/d664473b-63eb-44ca-94fe-77da1efb6fa6)
+  - *Publieke Share URL:* [https://share.descript.com/view/9naJmnbTxl0](https://share.descript.com/view/9naJmnbTxl0)
+  - *Features:* Underlord AI Agent execution, Studio Sound 90%, filler word removal, programmatic media import, automated cloud publishing.

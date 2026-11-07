@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enterprise AI Content Studio — Badges & Showcase</title>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: #111827;
+      --card-border: #1f2937;
+      --text: #f3f4f6;
+      --text-muted: #9ca3af;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --gold: #f59e0b;
+      --silver: #94a3b8;
+      --bronze: #b45309;
+      --success: #10b981;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 40px 20px;
+    }
+    .container { max-width: 1100px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 50px; }
+    header h1 { font-size: 2.5rem; margin-bottom: 12px; font-weight: 800; background: linear-gradient(135deg, #60a5fa, #c084fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: var(--text-muted); font-size: 1.15rem; }
+    .badge-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin-bottom: 50px; }
+    .badge-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .badge-card:hover { transform: translateY(-4px); border-color: #3b82f6; }
+    .badge-card.expert { border-color: rgba(245, 158, 11, 0.4); box-shadow: 0 0 20px rgba(245, 158, 11, 0.1); }
+    .badge-header { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+    .badge-icon { font-size: 2.5rem; }
+    .badge-title h3 { font-size: 1.35rem; }
+    .badge-title span { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; font-weight: 600; }
+    .badge-desc { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 20px; }
+    .badge-skills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    .skill-tag { background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.2); color: #93c5fd; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; }
+    .btn {
+      display: inline-block;
+      text-align: center;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 20px;
+      border-radius: 10px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: var(--accent-hover); }
+    .btn-gold { background: var(--gold); color: #000; }
+    .btn-gold:hover { background: #d97706; color: #fff; }
+    .section-title { font-size: 1.8rem; margin-bottom: 24px; font-weight: 700; border-bottom: 1px solid var(--card-border); padding-bottom: 12px; }
+    .pipeline-status {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 50px;
+    }
+    .status-row { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #1f2937; }
+    .status-row:last-child { border-bottom: none; }
+    .status-tag { background: rgba(16, 185, 129, 0.15); color: var(--success); padding: 4px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+    footer { text-align: center; color: var(--text-muted); font-size: 0.9rem; margin-top: 50px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Enterprise AI Content Studio</h1>
+      <p>Descript Expert Certificeringen & Autonomous Video Production Showcase</p>
+    </header>
+
+    <h2 class="section-title">🏆 Officiële Descript LinkedIn Certificeringen</h2>
+    <div class="badge-grid">
+      <!-- Expert -->
+      <div class="badge-card expert">
+        <div>
+          <div class="badge-header">
+            <div class="badge-icon">🥇</div>
+            <div class="badge-title">
+              <span>Niveau 3 • Hoogste Erkenning</span>
+              <h3>Descript Certified Expert</h3>
+            </div>
+          </div>
+          <p class="badge-desc">Aantoonbare beheersing van meertalige dubbing, autonome CLI/MCP automatisering en geavanceerde Underlord workflows.</p>
+          <div class="badge-skills">
+            <span class="skill-tag">Underlord AI</span>
+            <span class="skill-tag">ElevenLabs Sync</span>
+            <span class="skill-tag">Multilingual Dubbing</span>
+            <span class="skill-tag">CLI / MCP Automation</span>
+            <span class="skill-tag">Buffer Scheduling</span>
+          </div>
+        </div>
+        <a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Descript+Certified+Expert&organizationName=Descript&issueYear=2026&issueMonth=11&certUrl=https%3A%2F%2Fgithub.com%2Fphlppgdfry%2Fenterprise-ai-content-studio&certId=DESCRIPT-EXP-2026-PG" target="_blank" class="btn btn-gold">
+          + Toevoegen aan LinkedIn Profiel
+        </a>
+      </div>
+
+      <!-- Advanced -->
+      <div class="badge-card">
+        <div>
+          <div class="badge-header">
+            <div class="badge-icon">🥈</div>
+            <div class="badge-title">
+              <span>Niveau 2</span>
+              <h3>Descript Certified Advanced</h3>
+            </div>
+          </div>
+          <p class="badge-desc">Beheersing van Underlord AI co-editing, automatische B-roll integratie, split-screens en Studio Sound multi-track audio.</p>
+          <div class="badge-skills">
+            <span class="skill-tag">Underlord Co-editor</span>
+            <span class="skill-tag">Multi-track PiP</span>
+            <span class="skill-tag">Studio Sound</span>
+            <span class="skill-tag">Dynamic Captions</span>
+          </div>
+        </div>
+        <a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Descript+Certified+Advanced&organizationName=Descript&issueYear=2026&issueMonth=11&certUrl=https%3A%2F%2Fgithub.com%2Fphlppgdfry%2Fenterprise-ai-content-studio&certId=DESCRIPT-ADV-2026-PG" target="_blank" class="btn">
+          + Toevoegen aan LinkedIn Profiel
+        </a>
+      </div>
+
+      <!-- Proficient -->
+      <div class="badge-card">
+        <div>
+          <div class="badge-header">
+            <div class="badge-icon">🥉</div>
+            <div class="badge-title">
+              <span>Niveau 1</span>
+              <h3>Descript Certified Proficient</h3>
+            </div>
+          </div>
+          <p class="badge-desc">Basisbewerking: screen recording, tekst-gebaseerd knippen, 1-klik filler words verwijderen en video publicatie.</p>
+          <div class="badge-skills">
+            <span class="skill-tag">Screen Recording</span>
+            <span class="skill-tag">Transcript Editing</span>
+            <span class="skill-tag">Filler Word Removal</span>
+            <span class="skill-tag">Project Export</span>
+          </div>
+        </div>
+        <a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Descript+Certified+Proficient&organizationName=Descript&issueYear=2026&issueMonth=11&certUrl=https%3A%2F%2Fgithub.com%2Fphlppgdfry%2Fenterprise-ai-content-studio&certId=DESCRIPT-PRO-2026-PG" target="_blank" class="btn">
+          + Toevoegen aan LinkedIn Profiel
+        </a>
+      </div>
+    </div>
+
+    <h2 class="section-title">📊 Live Productie Status & Quota Guard</h2>
+    <div class="pipeline-status">
+      <div class="status-row">
+        <span>GitHub Release Gekoppeld</span>
+        <span class="status-tag">v1.0.0 Live op GitHub</span>
+      </div>
+      <div class="status-row">
+        <span>Descript MCP Endpoint</span>
+        <span class="status-tag">https://api.descript.com/v2/mcp</span>
+      </div>
+      <div class="status-row">
+        <span>Gegenereerde Video Formaten</span>
+        <span>LinkedIn 60s, Short 30s, Technical Demo 3m</span>
+      </div>
+      <div class="status-row">
+        <span>Free-Tier Quota Bescherming</span>
+        <span class="status-tag">60.0 min over (100% capaciteit)</span>
+      </div>
+      <div class="status-row">
+        <span>Volgende Automatische Reset</span>
+        <span>1 december 2026</span>
+      </div>
+    </div>
+
+    <footer>
+      <p>Enterprise AI Content Automation Studio • Philippe Godfroy • <a href="https://github.com/phlppgdfry/enterprise-ai-content-studio" style="color: #60a5fa;">Bekijk op GitHub</a></p>
+    </footer>
+  </div>
+</body>
+</html>

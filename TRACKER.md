@@ -57,8 +57,8 @@ Publieke Share Link: **[https://share.descript.com/view/ouPR3bkHdYF](https://sha
   - *Features:* Text-based cut, filler word removal, Studio Sound 85%, scene splits, dynamic captions, 3% subtle zoom, portrait 9:16 layout, DOCX/HTML/MD export.
 - [x] **Project 2:** [AI Product Demo met Underlord (2-3 min)](projects/02-ai-product-demo/)
   - *Live Descript Project:* [https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517](https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517)
-  - *Publieke Share URL:* [https://share.descript.com/view/n558bow7wq4](https://share.descript.com/view/n558bow7wq4)
-  - *Features:* Multi-scene visual refinements, technical product demo narration, studio audio cleanup.
+  - *Publieke Share URL:* [https://share.descript.com/view/BqgrYC8U604](https://share.descript.com/view/BqgrYC8U604) *(1080p MP4 Video)*
+  - *Features:* Underlord AI 16:9 canvas transform, dynamic word-by-word captions, Studio Sound 100%, DOCX/HTML/MD export.
 - [x] **Project 3:** [Vertical Viral Short - Content Repurposing (30 sec)](projects/04-content-repurposing/)
   - *Live Descript Project:* [https://web.descript.com/d4f60ae9-aee8-4f2d-a561-3d8ee6c00da0](https://web.descript.com/d4f60ae9-aee8-4f2d-a561-3d8ee6c00da0)
   - *Publieke Share URL:* [https://share.descript.com/view/w0jmYmu2rhR](https://share.descript.com/view/w0jmYmu2rhR)

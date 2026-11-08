@@ -52,11 +52,12 @@ Dit repository bevat uitgewerkte sjablonen, scripts en checklists voor 5 concret
 
 | # | Project | Doelstelling | Live Descript Output |
 |---|---|---|---|
-| **01** | [**Professional AI Video Editing**](projects/01-professional-editing/) | 60-90s Introductievideo van een softwareproject | [Share Link (9:16 Video)](https://share.descript.com/view/ouPR3bkHdYF) • [Descript Project](https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d) |
+| **01** | [**Professional AI Video Editing**](projects/01-professional-editing/) | 60-90s Introductievideo van een softwareproject | [Share Link (1080p Video)](https://share.descript.com/view/ouPR3bkHdYF) • [Descript Project](https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d) |
 | **02** | [**AI Product Demo**](projects/02-ai-product-demo/) | 2-3 min Geavanceerde technische walkthrough | [Share Link (Product Demo)](https://share.descript.com/view/n558bow7wq4) • [Descript Project](https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517) |
 | **03** | [**Multilingual AI Content**](projects/03-multilingual-content/) | 1 Nederlandse video naar Engels en Frans | [Share Link (Multilingual FR)](https://share.descript.com/view/YoU6f892hEf) • [Descript Project](https://web.descript.com/70db0422-c8b0-4b2c-9204-fd51a01b52b6) |
 | **04** | [**AI Content Repurposing**](projects/04-content-repurposing/) | 1 mastervideo naar 5 social formats | [Share Link (Viral Short)](https://share.descript.com/view/w0jmYmu2rhR) • [Descript Project](https://web.descript.com/d4f60ae9-aee8-4f2d-a561-3d8ee6c00da0) |
 | **05** | [**Autonomous Production Studio**](projects/05-automated-pipeline/) | End-to-end geautomatiseerde release-to-video pipeline | [Share Link (Underlord CI/CD)](https://share.descript.com/view/9naJmnbTxl0) • [Descript Project](https://web.descript.com/d664473b-63eb-44ca-94fe-77da1efb6fa6) |
+| **06** | [**Enterprise Masterclass Video (Flagship)**](projects/05-automated-pipeline/) | 1080p Full HD Video met ElevenLabs & Underlord AI | [Share Link (1080p Masterclass)](https://share.descript.com/view/YdMh3h95pT0) • [Descript Project](https://web.descript.com/5b6aa62b-e08e-444e-a6c8-a44646e6a7f7) |
 
 ---
 

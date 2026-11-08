@@ -49,12 +49,12 @@ Publieke Share Link: **[https://share.descript.com/view/ouPR3bkHdYF](https://sha
 
 ---
 
-## 🚀 De 5 Portfolio Mijlpalen (Alle 5 Live & Gepubliceerd op Descript)
+## 🚀 De Portfolio Mijlpalen (6 Live & Gepubliceerd op Descript)
 
 - [x] **Project 1:** [Professional AI Video Editing (60-90 sec)](projects/01-professional-editing/)
   - *Live Descript Project:* [https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d](https://web.descript.com/1118cbc9-2908-4bdb-acdb-646ec6f3140d)
-  - *Publieke Share URL:* [https://share.descript.com/view/ouPR3bkHdYF](https://share.descript.com/view/ouPR3bkHdYF)
-  - *Features:* Text-based cut, filler word removal, Studio Sound 85%, scene splits, dynamic captions, 3% subtle zoom, portrait 9:16 layout.
+  - *Publieke Share URL:* [https://share.descript.com/view/ouPR3bkHdYF](https://share.descript.com/view/ouPR3bkHdYF) *(1080p MP4 Video)*
+  - *Features:* Text-based cut, filler word removal, Studio Sound 85%, scene splits, dynamic captions, 3% subtle zoom, portrait 9:16 layout, DOCX/HTML/MD export.
 - [x] **Project 2:** [AI Product Demo met Underlord (2-3 min)](projects/02-ai-product-demo/)
   - *Live Descript Project:* [https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517](https://web.descript.com/c5dc9c48-18c8-4cee-a9ee-5088522ff517)
   - *Publieke Share URL:* [https://share.descript.com/view/n558bow7wq4](https://share.descript.com/view/n558bow7wq4)
@@ -71,3 +71,7 @@ Publieke Share Link: **[https://share.descript.com/view/ouPR3bkHdYF](https://sha
   - *Live Descript Project:* [https://web.descript.com/d664473b-63eb-44ca-94fe-77da1efb6fa6](https://web.descript.com/d664473b-63eb-44ca-94fe-77da1efb6fa6)
   - *Publieke Share URL:* [https://share.descript.com/view/9naJmnbTxl0](https://share.descript.com/view/9naJmnbTxl0)
   - *Features:* Underlord AI Agent execution, Studio Sound 90%, filler word removal, programmatic media import, automated cloud publishing.
+- [x] **Project 6 (Flagship):** [Enterprise Masterclass Video - Automated Studio](projects/05-automated-pipeline/)
+  - *Live Descript Project:* [https://web.descript.com/5b6aa62b-e08e-444e-a6c8-a44646e6a7f7](https://web.descript.com/5b6aa62b-e08e-444e-a6c8-a44646e6a7f7)
+  - *Publieke Share URL:* [https://share.descript.com/view/YdMh3h95pT0](https://share.descript.com/view/YdMh3h95pT0) *(1080p Full HD MP4 Video)*
+  - *Features:* ElevenLabs Creator AI voice, 1080p animated video import, Underlord Studio Sound 100%, active word-by-word captions, AI chapter markers (Introduction, CI/CD Pipeline, Multilingual Distribution), DOCX/HTML/MD/TXT transcript exports.
